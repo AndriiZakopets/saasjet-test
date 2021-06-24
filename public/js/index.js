@@ -1,4 +1,3 @@
-$(document).ready(function () {
-    alert();
+document.addEventListener('DOMContentLoaded', () => {
+  alert('document ready');
 });
-

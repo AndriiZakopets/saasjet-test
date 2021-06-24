@@ -7,7 +7,7 @@
     "name": "SaaSJet",
     "url": "https://saasjet.com"
   },
-  "baseUrl": "https://smth.heroku.com", /** <=== INSERT YOUR HEROKU APP URL. Delete this comment */
+  "baseUrl": "https://smth.heroku.com",
   "links": {
     "self": "https://smth.ngrok.com/atlassian-connect.json",
     "homepage": "https://smth.ngrok.com/atlassian-connect.json"
@@ -32,8 +32,7 @@
           "value": "Your test addon name"
         },
         "url": "/main-page",
-        "conditions": [
-        ]
+        "conditions": []
       }
     ]
   }
