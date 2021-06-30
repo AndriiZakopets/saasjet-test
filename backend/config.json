@@ -1,0 +1,11 @@
+{
+    "expressErrorHandling": false,
+    "development": {
+        "port": 3000,
+        "store": {
+            "adapter": "mongodb",
+            "url": "mongodb+srv://Snailz:admin@cluster0.ucjfs.mongodb.net",
+            "collection": "AddonSettings"
+        }
+    }
+}

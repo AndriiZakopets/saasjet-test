@@ -7,10 +7,10 @@
     "name": "SaaSJet",
     "url": "https://saasjet.com"
   },
-  "baseUrl": "https://smth.heroku.com",
+  "baseUrl": "https://91131a66d81f.ngrok.io",
   "links": {
-    "self": "https://smth.ngrok.com/atlassian-connect.json",
-    "homepage": "https://smth.ngrok.com/atlassian-connect.json"
+    "self": "https://91131a66d81f.ngrok.io/atlassian-connect.json",
+    "homepage": "https://91131a66d81f.ngrok.io/atlassian-connect.json"
   },
   "authentication": {
     "type": "jwt"
@@ -29,7 +29,7 @@
         "key": "main-page",
         "location": "system.top.navigation.bar",
         "name": {
-          "value": "Your test addon name"
+          "value": "Addon"
         },
         "url": "/main-page",
         "conditions": []
