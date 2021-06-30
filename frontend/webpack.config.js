@@ -20,6 +20,6 @@ module.exports = {
   },
   output: {
     filename: 'bundled.[name].js',
-    path: path.resolve('../backend/public/dist'),
+    path: path.resolve('../public/dist'),
   },
 };
