@@ -7,10 +7,10 @@
     "name": "SaaSJet",
     "url": "https://saasjet.com"
   },
-  "baseUrl": "https://91131a66d81f.ngrok.io",
+  "baseUrl": "https://andriizakopets-saasjet-test.herokuapp.com/",
   "links": {
-    "self": "https://91131a66d81f.ngrok.io/atlassian-connect.json",
-    "homepage": "https://91131a66d81f.ngrok.io/atlassian-connect.json"
+    "self": "https://andriizakopets-saasjet-test.herokuapp.com//atlassian-connect.json",
+    "homepage": "https://andriizakopets-saasjet-test.herokuapp.com//atlassian-connect.json"
   },
   "authentication": {
     "type": "jwt"
